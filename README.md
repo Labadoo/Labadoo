@@ -26,7 +26,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/bbnz_zn/))
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=82b1ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
