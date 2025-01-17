@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 My name is Supparerk Jeerat
 
-<!--
-**Labadoo/Labadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer
+3rd Year Computer Science Student | Aspiring Software Developer I am currently seeking an internship position as a software developer to develop my skills and real-world experience in building powerful and responsive programming applications. My focus is on developing programs that are easy to understand and use, yet highly secure.
+- 🌍 I'm based in Chiangmai, Thailand  
+- ✉️ You can contact me at [baseeyou01@gmail.com](mailto:baseeyou01@gmail.com)
+  
+---
 
-Here are some ideas to get you started:
+### Skills  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Socials  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com](https://www.facebook.com/barame.noroko/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/bbnz_zn/))
