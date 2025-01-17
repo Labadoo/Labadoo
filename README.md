@@ -27,7 +27,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=#000033&title_color=ffffff&text_color=ffffff&icon_color=82b1ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=000033&title_color=ffffff&text_color=ffffff&icon_color=82b1ff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
