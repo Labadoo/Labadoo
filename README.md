@@ -24,3 +24,8 @@
 ### Socials  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com](https://www.facebook.com/barame.noroko/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/bbnz_zn/))
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=radical)
+
